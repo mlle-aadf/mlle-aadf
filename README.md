@@ -1,9 +1,9 @@
 <h1 align="center">Hello world! I'm Alexandra 🐧</h1>
 <h3 align="center">A creative code ninja (full-stack developer)</h3>
 
-- 🔭 I’m currently working on [Fluffy's Donuts](https://fluffy-donuts.vercel.app/)
+- 🔭 Working on [Fluffy's Donuts](https://fluffy-donuts.vercel.app/)
 
-- 🌱 I’m currently learning **React Native** (MUI and D3 are next 🤓)
+- 🌱 Learning **React Native** (MUI and D3 are next 🤓)
 
 - 👨‍💻 Check out my website [here](https://aadf.ca/)
 
