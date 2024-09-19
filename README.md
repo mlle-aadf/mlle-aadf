@@ -3,7 +3,7 @@
 
 - 🔭 Working on [Fluffy's Donuts](https://fluffy-donuts.vercel.app/)
 
-- 🌱 Learning **React Native** (MUI and D3 are next 🤓)
+- 🌱 Learning **TypeScript** (MUI and D3 are next 🤓)
 
 - 👨‍💻 Check out my website [here](https://aadf.ca/)
 
