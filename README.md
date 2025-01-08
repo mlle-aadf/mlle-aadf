@@ -1,9 +1,7 @@
 <h1 align="center">Hello world! I'm Alexandra 🐧</h1>
 <h3 align="center">A creative code ninja (full-stack developer)</h3>
 
-- 🔭 Working on [Fluffy's Donuts](https://fluffy-donuts.vercel.app/)
-
-- 🌱 Learning **TypeScript** and **SASS** (D3 is next 🤓)
+- 🌱 Learning **React Native** and **Python** 
 
 - 👨‍💻 Check out my website [here](https://aadf.ca/)
 
