@@ -1,7 +1,9 @@
 <h1 align="center">Hello world! I'm Alexandra 🐧</h1>
 <h3 align="center">A creative code ninja (full-stack developer)</h3>
 
-- 🌱 Learning **React Native** and **Python** 
+- 🌱 Currently learning **Python** and **React Native** 
+
+- 🤖 Having too much fun leveling up with **Copilot**
 
 - 👨‍💻 Check out my website [here](https://aadf.ca/)
 
