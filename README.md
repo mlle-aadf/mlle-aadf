@@ -2,7 +2,7 @@
 
 Full-stack developer • designer • consultant
 
-⚛️ React • 🍃 MongoDB • 🔗 n8n 
+⚛️ React • 🍃 MongoDB • 🔗 n8n • 🤖 OpenCode
 
 
 **Currently into:**
